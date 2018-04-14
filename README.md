@@ -9,9 +9,9 @@ Google has introduced a unified system called Material Design integrating UI com
 ## Rationale of this guide
 This guide serves as a sharing in personal experience in making practical and effective use of Google Material/Material-UI components in designing the user interface of application, particularly in web application that will be useful for novice in Goggle Material/Material-UI. 
 
-I personally find the [Material Design Guidelines by Google] (https://material.io/guidelines/) is very comprehensive for beginners in application UI design decisions, particularly on the illustration of "do's and dont's".
+I personally find the [Material Design Guidelines by Google](https://material.io/guidelines/) is very comprehensive for beginners in application UI design decisions, particularly on the illustration of "do's and dont's".
 
-To visualise how these components are utilised in application, [Components Documentation by Material-UI] (https://www.material-ui.com/#/components/app-bar) really opens your mind to the possibilites of the components design. 
+To visualise how these components are utilised in application, [Components Documentation by Material-UI](https://www.material-ui.com/#/components/app-bar) really opens your mind to the possibilites of the components design. 
 
 Due to the variety of components, I find it diffcult to make UI design decisions, particularly which components should be used at which section of the page layout. Thus, I hope this guidelines might help you in the UI design decisions. 
 <br>
@@ -21,7 +21,7 @@ Due to the variety of components, I find it diffcult to make UI design decisions
 ## How do I benefit from this guide? 
 - Understand the in-depth typical examples of most of the Material components.
 - Understand the possbile combinations / interactions between components. (future work) 
-- You are highly recommended to read [Material Design Guidelines by Google] (https://material.io/guidelines/) and [Components Documentation by Material-UI] (https://www.material-ui.com/#/components/app-bar) as this guide offers supplementary information about Material-UI components applications. 
+- You are highly recommended to read [Material Design Guidelines by Google](https://material.io/guidelines/) and [Components Documentation by Material-UI](https://www.material-ui.com/#/components/app-bar) as this guide offers supplementary information about Material-UI components applications. 
 - The components are categorised into three classes based on their applications in UI design.
 - Some of the basic components are not being discussed (eg: text field, select field) in depth in this guide.
 <br>
