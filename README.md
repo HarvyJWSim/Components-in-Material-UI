@@ -27,9 +27,8 @@ Due to the variety of components, I find it diffcult to make UI design decisions
 <br>
 
 ## List of Material Design Components
-This created infographic displays most of the material design components for illustration. [View Me](https://create.piktochart.com/output/29623910-material-ui-in-a-nutshell-material-design-in-react)
+This created infographic displays most of the material design components for illustration: [View Me](https://create.piktochart.com/output/29623910-material-ui-in-a-nutshell-material-design-in-react)
 
-Preview: 
 ![material-ui-in-a-nutshell-material-design-in-react](material-ui-in-a-nutshell-material-design-in-react.png)
 
 - Elemental Components
