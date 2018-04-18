@@ -1,4 +1,4 @@
-# Implementing Google's Material Design in React using "Material-UI"
+# 15 min novice guide - Implementing Google's Material Design in React using "Material-UI" Components
 
 ## What is Google's Material Design & Material-UI?
 Google has introduced a unified system called Material Design integrating UI components that apply Material design guidelines, for web application and mobile application. Material-UI is the implementation of Material design components in React, made possible by engineers at Call-Em-All (github link: https://github.com/mui-org/material-ui).
