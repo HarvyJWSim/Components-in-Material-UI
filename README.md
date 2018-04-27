@@ -21,7 +21,7 @@ Due to the variety of components, I find it diffcult to make UI design decisions
 ## How do I benefit from this guide? 
 - Understand the in-depth typical examples of most of the Material components.
 - Understand the possbile combinations / interactions between components. (future work) 
-- You are highly recommended to explore [Material Design Guidelines by Google](https://material.io/guidelines/) and [Components Documentation by Material-UI](https://www.material-ui.com/#/components/app-bar) as this guide offers supplementary information about Material-UI components applications. 
+> You are highly recommended to explore [Material Design Guidelines by Google](https://material.io/guidelines/) and [Components Documentation by Material-UI](https://www.material-ui.com/#/components/app-bar) as this guide offers supplementary information about Material-UI components applications. 
 - The components are categorised into three classes based on their applications in UI design.
 - Some of the basic components are not being discussed (eg: text field, select field) in depth in this guide.
 <br>
