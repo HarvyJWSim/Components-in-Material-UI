@@ -4,7 +4,6 @@
 Google has introduced a unified system called Material Design integrating UI components that apply Material design guidelines, for web application and mobile application. Material-UI is the implementation of Material design components in React, made possible by engineers at Call-Em-All (github link: https://github.com/mui-org/material-ui).
 <br>
 <br>
-<br>
 
 ## Rationale of this guide
 This guide serves as a sharing in personal experience in making practical and effective use of Google Material/Material-UI components in designing the user interface of application, particularly in web application that will be useful for novice in Goggle Material/Material-UI. 
@@ -14,7 +13,6 @@ I personally find the [Material Design Guidelines by Google](https://material.io
 To visualise how these components are utilised in application, [Components Documentation by Material-UI](https://www.material-ui.com/#/components/app-bar) really opens your mind to the possibilites of the components design. 
 
 Due to the variety of components, I find it diffcult to make UI design decisions, particularly which components should be used at which section of the page layout. Thus, I hope this guidelines might help you in the UI design decisions. 
-<br>
 <br>
 <br>
 
